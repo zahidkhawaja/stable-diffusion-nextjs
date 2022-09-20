@@ -37,7 +37,7 @@ const Home = () => {
       </Head>
 
       <div className = {styles.banner}>
-        <p>Open source template available <a href="https://github.com/zahidkhawaja/stable-diffusion-nextjs" target="_blank" rel="noopener noreferrer">here</a></p>
+        <p>Next.js template available on <a href="https://github.com/zahidkhawaja/stable-diffusion-nextjs" target="_blank" rel="noopener noreferrer">GitHub</a></p>
       </div>
 
       <main className={styles.main}>
