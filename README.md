@@ -43,6 +43,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Important note: Vercel's "free" plan has a serverless function execution timeout of 10 seconds (which applies to the API route in this project). You will need a "pro" plan (which has a 60 second timeout) to run this in production without issues. This limitation does not affect local development.
+Important note: Vercel's "free" plan has a serverless function execution timeout of 10 seconds. You may need a "pro" plan (which has a 60 second timeout) to run this in production without issues. This limitation does not affect local development.
 
 ## Use 🍌 Banana for scale.
