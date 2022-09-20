@@ -1,6 +1,6 @@
 # Next.js Template for Stable Diffusion
 
-This is a [Next.js](https://nextjs.org/) template for  🍌 [Banana](https://www.banana.dev/) deployments of Stable Diffusion on serverless GPUs. Feel free to customize this and make it your own! Enter your API keys in .env.local and go bananas! 🎉
+This is a [Next.js](https://nextjs.org/) template for  🍌 [Banana](https://www.banana.dev/) deployments of Stable Diffusion on serverless GPUs. Feel free to customize this frontend and make it your own! Enter your API keys in .env.local and go bananas! 🎉
 
 ## Getting Started
 
