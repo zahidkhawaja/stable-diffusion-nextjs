@@ -1,6 +1,6 @@
 # Next.js Template for Stable Diffusion
 
-This is a [Next.js](https://nextjs.org/) template for  🍌 [Banana](https://www.banana.dev/) users deploying Stable Diffusion on serverless GPUs. Enter your API keys in .env.local and you're ready to party! 🎉
+This is a [Next.js](https://nextjs.org/) template for  🍌 [Banana](https://www.banana.dev/) deployments of Stable Diffusion on serverless GPUs. Feel free to customize this and make it your own! Enter your API keys in .env.local and go bananas! 🎉
 
 ## Getting Started
 
@@ -43,6 +43,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Important note: Vercel's "free" plan has a serverless function execution timeout of 10 seconds (this applies to the API route in this project). You will need a "pro" plan (which has a 60 second timeout) to run this in production without issues. This limitation does not affect local development.
+Important note: Vercel's "free" plan has a serverless function execution timeout of 10 seconds (which applies to the API route in this project). You will need a "pro" plan (which has a 60 second timeout) to run this in production without issues. This limitation does not affect local development.
 
-## Use Banana for scale.
+## Use 🍌 Banana for scale.
